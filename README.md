@@ -32,4 +32,4 @@
   
 </div>
 
-![Snake Animation](https://github.com/JoaoBigarato/Apr/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake Animation](https://github.com/JoaoBigarato/JoaoBigarato/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
