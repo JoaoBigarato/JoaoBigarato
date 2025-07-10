@@ -1,6 +1,6 @@
-## Olá eu sou João Bigarato!
+## Opa eu sou o João Bigarato!
 
-É um prazer enorme ter você por aqui!
+É um prazer enorme ter você por aqui! Não esquece de dar uma olhada nos projetos!!
 
 <a href="https://github.com/JoaoBigarato">
 <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=JoaoBigarato&show_icons=true">
