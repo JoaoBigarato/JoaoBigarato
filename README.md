@@ -3,8 +3,8 @@
 É um prazer enorme ter você por aqui!
 
 <a href="https://github.com/JoaoBigarato">
-<img height="130cm" src="https://github-readme-stats.vercel.app/api?username=JoaoBigarato&show_icons=true">
-<img height="130cm" src="https://github-readme-stats.vercel.app/api?username=JoaoBigarato&show_icons=true&theme=dracula">
+<img height="170cm" src="https://github-readme-stats.vercel.app/api?username=JoaoBigarato&show_icons=true">
+<img height="170cm" src="https://github-readme-stats.vercel.app/api?username=JoaoBigarato&show_icons=true&theme=dracula">
 
 
 <div style="display: inline_block"><br>
